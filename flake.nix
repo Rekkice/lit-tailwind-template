@@ -14,6 +14,8 @@
             nodejs
             nodePackages_latest.pnpm
             nodePackages_latest.typescript-language-server
+            tailwindcss-language-server
+            vscode-langservers-extracted
           ];
         };
       }
